@@ -92,6 +92,11 @@ git config --global credential.helper store # (saved into : ~/.git-credentials);
 
 ## 1.5 Basic Commands :
 
+<img 
+   src="images/git_workingtree.png"
+   alt="feature branch"
+   style="width: 600px; float: left; margin-right: 40px;" />
+
 ### 1.5.1 Stage and Commit
 
 * Stage
